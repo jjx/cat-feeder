@@ -1,0 +1,18 @@
+# PyCharm
+*.iml
+.idea
+
+# Python
+*.pyc
+
+# Code coverage
+.coverage
+htmlcov
+
+# Database
+db.sqlite
+
+# Virtual env
+old/env
+
+scratch/debugging.py
